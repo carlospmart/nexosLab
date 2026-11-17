@@ -1,3 +1,5 @@
+🔗 **Acesse o projeto online:** [nexos-lab.infinityfreeapp.com](http://nexos-lab.infinityfreeapp.com/)
+
 # 🧪 nexosLab
 
 Sistema web de gerenciamento de catálogo e estoque desenvolvido em **PHP** puro, **MySQL**, **SCSS** e **JavaScript**, com suporte a upload de imagens, cadastro de produtos, categorias, fornecedores, pesquisa dinâmica, ícones SVG parametrizáveis e alternância automática/manual de temas (Claro e Escuro).
