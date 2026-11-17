@@ -1,0 +1,15 @@
+/* abstracts */
+@import './abstracts/functions';
+@import './abstracts/mixins';
+
+/* base */
+@import './base/variables';
+@import './base/base';
+
+/* components */
+@import './components/header';
+@import './components/btn';
+@import './components/catalog';
+@import './components/product-card';
+@import './components/modal';
+@import './components/form';
